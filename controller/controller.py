@@ -1,0 +1,1 @@
+print("Aquí irán las funcioens para conectar el view y el model")
