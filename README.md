@@ -1,4 +1,4 @@
 Colaboradores:
-Harol Alvarado Valdivieso
+Harol Alvarado Valdivieso, Frank Parra
 
 Proeycto: primer_trabajo_pachaqtec
